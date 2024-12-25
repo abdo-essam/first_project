@@ -16,6 +16,6 @@ These instructions will help you set up and run the project on your local machin
 - An IDE such as Android Studio or Visual Studio Code with Flutter and Dart plugins installed.
 
 ## Output
-![Output Screenshot](screenshot.png)
-![Output Screenshot](screenshot2.png)
-![Output Screenshot](screenshot3.png)
+![Output Screenshot](Screenshot.png)
+![Output Screenshot](Screenshot2.png)
+![Output Screenshot](Screenshot3.png)
