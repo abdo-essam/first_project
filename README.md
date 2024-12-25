@@ -1,16 +1,21 @@
-# first_project
+# First Project
 
-A new Flutter project.
+This is a simple Flutter application that demonstrates the basics of creating a Flutter project and implementing a Stateless Widget to display images and customized text.
+
+## Project Overview
+
+The application displays two images and two pieces of customized text in a column layout. It serves as an introductory project to get familiar with Flutter development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: Make sure you have Flutter installed on your machine. You can download it from the [official Flutter website](https://flutter.dev/docs/get-started/install).
+- An IDE such as Android Studio or Visual Studio Code with Flutter and Dart plugins installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![Output Screenshot](screenshot.png)
+![Output Screenshot](screenshot2.png)
+![Output Screenshot](screenshot3.png)
